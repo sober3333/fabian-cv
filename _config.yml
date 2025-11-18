@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Fabian Meyer-Theobaldy"
+resume_name:                    "Fabian Meyer-Theobaldy, M.A."
 resume_title:                   "Head of Corporate Communications"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "fabian.meyer-theobaldy@pm.me"
+resume_contact_email:           "hallo@fabian-mt.de"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "0171 28 73 342"
 resume_contact_address:         "Lechstr. 3c, 84036 Landshut"
 
-resume_header_contact_info:     "Lechstr. 3c, 84036 Landshut • 0171 28 73 342 • fabian.meyer-theobaldy@pm.me"
+resume_header_contact_info:     "Lechstr. 3c, 84036 Landshut • 0171 28 73 342 • hallo@fabian-mt.de"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Führungskraft in der Unternehmenskommunikation mit über zehn Jahren Berufserfahrung: Verantwortung für interne und externe Kommunikation mit besonderem Fokus auf interne Kommunikation und Social Media. Erfahren im Aufbau von Corporate Ambassadors und der Entwicklung von Corporate Accounts in den sozialen Medien. Fokus auf die Einführung effektiver, softwaregestützter redaktioneller Strukturen und transparenter Freigabeprozesse. Langjährige Erfahrung in der Entwicklung kreativer Kommunikationskonzepte für interne und externe Kommunikation.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -35,11 +35,11 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+# resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+# resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+# resume_section_associations:    true
 # resume_section_interests:       true
 
 # Resume social links
