@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Fabian Meyer-Theobaldy, M.A."
+resume_name:                    "Fabian Meyer-Theobaldy"
 resume_title:                   "Head of Corporate Communications"
 
 # used for the contact button in _layouts/resume.html
@@ -20,10 +20,10 @@ resume_contact_email:           "hallo@fabian-mt.de"
 resume_contact_telephone:       "0171 28 73 342"
 resume_contact_address:         "Lechstr. 3c, 84036 Landshut"
 
-resume_header_contact_info:     "Lechstr. 3c, 84036 Landshut • 0171 28 73 342 • hallo@fabian-mt.de"
+resume_header_contact_info:     "Lechstr. 3c, 84036 Landshut • hallo@fabian-mt.de"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Führungskraft in der Unternehmenskommunikation mit über zehn Jahren Erfahrung in der internen und externen Kommunikation. Mein Fokus liegt auf dem Aufbau und der inhaltlichen Entwicklung von reichweitenstarken digitalen Kommunikationsplattformen für B2B-Unternehmen. Ich entwickle nachhaltige Unternehmenskommunikation durch die Einführung leistungsstarker redaktioneller Strukturen und effektiver Kommunikationsprozesse.</p>"
+resume_header_intro: "<p>Führungskraft in der Unternehmenskommunikation mit über zehn Jahren Erfahrung in der internen und externen Kommunikation von B2B-Unternehmen. Ich stehe für nachhaltige Unternehmenskommunikation und resiliente Krisenkommunikation mit leistungsstarken redaktionellen Strukturen und effektiven Kommunikationsprozessen.  </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
