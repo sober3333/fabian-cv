@@ -14,13 +14,13 @@ resume_name:                    "Fabian Meyer-Theobaldy"
 resume_title:                   "Head of Corporate Communications"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "hallo@fabian-mt.de"
+resume_contact_email:           "fabian.meyer-theobaldy@pm.me"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "0171 28 73 342"
 resume_contact_address:         "Lechstr. 3c, 84036 Landshut"
 
-resume_header_contact_info:     "Lechstr. 3c, 84036 Landshut • hallo@fabian-mt.de"
+resume_header_contact_info:     "Lechstr. 3c, 84036 Landshut • fabian.meyer-theobaldy@pm.me"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Führungskraft in der Unternehmenskommunikation mit über zehn Jahren Erfahrung in der internen und externen Kommunikation von B2B-Unternehmen. Mein Fokus liegt auf der Verknüpfung von strategischer Kommunikation mit modernen, digitalen Redaktionsprozessen. Ich nutze KI nicht als Ersatz für Inhalte, sondern als integralen 'digitalen Redakteur' zur Effizienzsteigerung und Qualitätssicherung, um Freiräume für echte Beziehungen und exzellente Inhalte zu schaffen. Erfahren in Change-Prozessen, CEO-Positioning und der Führung von Teams in einem sich wandelnden Medienumfeld.  </p>"
